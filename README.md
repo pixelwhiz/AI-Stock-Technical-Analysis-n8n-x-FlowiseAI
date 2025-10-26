@@ -74,10 +74,7 @@ X億，淨利為Y億，每股盈餘為$Z。
 ### Option Data API Setup
 For the Fetch_Option_Data Tool that fetches option data, you have several deployment options:
 
-- **Replit** (Recommended): Use Replit for the easiest setup
-  - Replit link: https://www.guccidgi.com/replit
-  - Code repository: https://replit.com/@gucci0915/StockOptionsChainAPI?v=1
-  - Just click "deploy", select host mode and specifications to complete the setup
+
 
 - **Self-hosted**: You can deploy on your own cloud server like DigitalOcean
 
